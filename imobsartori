@@ -1,3 +1,10 @@
+# no diretório do seu site
+git init
+git add .
+git commit -m "deploy site"
+git remote add origin https://armandosartori.github.io/imobsartori/
+git push -u origin main
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
