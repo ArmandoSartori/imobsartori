@@ -1,4 +1,4 @@
-# no diretório do seu site
+
 git init
 git add .
 git commit -m "deploy site"
